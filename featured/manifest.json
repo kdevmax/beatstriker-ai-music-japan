@@ -1,0 +1,1537 @@
+[
+  {
+    "id": "featured_mr_blue_sky",
+    "key": "570",
+    "title": "Mr. Blue Sky",
+    "artist": "Electric Light Orchestra",
+    "author": "GreatYazer",
+    "bpm": 174.0,
+    "diffStats": {
+      "Normal": {
+        "notes": 462,
+        "obstacles": 25,
+        "bombs": 0
+      },
+      "Hard": {
+        "notes": 639,
+        "obstacles": 40,
+        "bombs": 0
+      },
+      "Expert": {
+        "notes": 825,
+        "obstacles": 40,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_retribution",
+      "title": "Retribution",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Retribution.mp3",
+      "bpm": 174
+    },
+    "authorMeta": "Chart: GreatYazer \u2022 174 BPM",
+    "trackTitle": "Retribution"
+  },
+  {
+    "id": "featured_gangnam_style",
+    "key": "141",
+    "title": "Gangnam Style",
+    "artist": "PSY",
+    "author": "GreatYazer",
+    "bpm": 132.0,
+    "diffStats": {
+      "Normal": {
+        "notes": 419,
+        "obstacles": 42,
+        "bombs": 4
+      },
+      "Hard": {
+        "notes": 735,
+        "obstacles": 94,
+        "bombs": 40
+      },
+      "Expert": {
+        "notes": 982,
+        "obstacles": 103,
+        "bombs": 50
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_honky",
+      "title": "Honky-Tonk Villain",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Honky-Tonk%20Villain.mp3",
+      "bpm": 132
+    },
+    "authorMeta": "Chart: GreatYazer \u2022 132 BPM",
+    "trackTitle": "Honky-Tonk Villain"
+  },
+  {
+    "id": "featured_rasputin",
+    "key": "124",
+    "title": "Rasputin (Funk Overload)",
+    "artist": "Boney M. / jobas",
+    "author": "jobas",
+    "bpm": 149.0,
+    "diffStats": {
+      "Hard": {
+        "notes": 768,
+        "obstacles": 154,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_bloody_tears",
+      "title": "Bloody Tears (Metal Remix)",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Bloody%20Tears%20(Castlevania%20remix).mp3",
+      "bpm": 150
+    },
+    "authorMeta": "Chart: jobas \u2022 149 BPM",
+    "trackTitle": "Bloody Tears (Metal Remix)"
+  },
+  {
+    "id": "featured_caramelldansen",
+    "key": "3cf5",
+    "title": "Caramelldansen",
+    "artist": "Caramell / Speedcake",
+    "author": "Dack",
+    "bpm": 165.0,
+    "diffStats": {
+      "Expert": {
+        "notes": 774,
+        "obstacles": 28,
+        "bombs": 52
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_syntheticity",
+      "title": "Syntheticity",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Syntheticity.mp3",
+      "bpm": 165
+    },
+    "authorMeta": "Chart: Dack \u2022 165 BPM",
+    "trackTitle": "Syntheticity"
+  },
+  {
+    "id": "featured_believer",
+    "key": "2144",
+    "title": "Believer",
+    "artist": "Imagine Dragons",
+    "author": "Rustic",
+    "bpm": 125.0,
+    "diffStats": {
+      "Easy": {
+        "notes": 216,
+        "obstacles": 0,
+        "bombs": 0
+      },
+      "Normal": {
+        "notes": 388,
+        "obstacles": 8,
+        "bombs": 0
+      },
+      "Hard": {
+        "notes": 514,
+        "obstacles": 10,
+        "bombs": 0
+      },
+      "Expert": {
+        "notes": 560,
+        "obstacles": 12,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_defiance",
+      "title": "Defiance",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Defiance.mp3",
+      "bpm": 125
+    },
+    "authorMeta": "Chart: Rustic \u2022 125 BPM",
+    "trackTitle": "Defiance"
+  },
+  {
+    "id": "featured_lone_digger",
+    "key": "281a",
+    "title": "Lone Digger",
+    "artist": "Caravan Palace",
+    "author": "BennyDaBeast",
+    "bpm": 124.0,
+    "diffStats": {
+      "Easy": {
+        "notes": 313,
+        "obstacles": 27,
+        "bombs": 0
+      },
+      "Normal": {
+        "notes": 480,
+        "obstacles": 27,
+        "bombs": 0
+      },
+      "Hard": {
+        "notes": 730,
+        "obstacles": 27,
+        "bombs": 0
+      },
+      "Expert": {
+        "notes": 746,
+        "obstacles": 2,
+        "bombs": 11
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_thugs",
+      "title": "Thugs",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Thugs.mp3",
+      "bpm": 124
+    },
+    "authorMeta": "Chart: BennyDaBeast \u2022 124 BPM",
+    "trackTitle": "Thugs"
+  },
+  {
+    "id": "featured_harder_better",
+    "key": "1b09",
+    "title": "Harder, Better, Faster, Stronger",
+    "artist": "Daft Punk",
+    "author": "BennyDaBeast",
+    "bpm": 123.0,
+    "diffStats": {
+      "Hard": {
+        "notes": 480,
+        "obstacles": 33,
+        "bombs": 57
+      },
+      "Expert": {
+        "notes": 684,
+        "obstacles": 33,
+        "bombs": 68
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_clowns",
+      "title": "Clowns",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Clowns.mp3",
+      "bpm": 123
+    },
+    "authorMeta": "Chart: BennyDaBeast \u2022 123 BPM",
+    "trackTitle": "Clowns"
+  },
+  {
+    "id": "featured_shut_up_and_dance",
+    "key": "121e",
+    "title": "Shut Up and Dance",
+    "artist": "WALK THE MOON",
+    "author": "BennyDaBeast",
+    "bpm": 128.0,
+    "diffStats": {
+      "Normal": {
+        "notes": 305,
+        "obstacles": 24,
+        "bombs": 4
+      },
+      "Hard": {
+        "notes": 490,
+        "obstacles": 24,
+        "bombs": 4
+      },
+      "Expert": {
+        "notes": 624,
+        "obstacles": 24,
+        "bombs": 4
+      },
+      "ExpertPlus": {
+        "notes": 894,
+        "obstacles": 0,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_now_or_never",
+      "title": "Now or Never",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Now%20or%20Never.mp3",
+      "bpm": 128
+    },
+    "authorMeta": "Chart: BennyDaBeast \u2022 128 BPM",
+    "trackTitle": "Now or Never"
+  },
+  {
+    "id": "featured_beat_it",
+    "key": "4c42",
+    "title": "Beat It",
+    "artist": "Michael Jackson",
+    "author": "MajorPickle",
+    "bpm": 139.0,
+    "diffStats": {
+      "Easy": {
+        "notes": 188,
+        "obstacles": 84,
+        "bombs": 0
+      },
+      "Normal": {
+        "notes": 259,
+        "obstacles": 70,
+        "bombs": 40
+      },
+      "Hard": {
+        "notes": 428,
+        "obstacles": 72,
+        "bombs": 42
+      },
+      "Expert": {
+        "notes": 669,
+        "obstacles": 69,
+        "bombs": 46
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_wild_waters",
+      "title": "Wild Waters",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Wild%20Waters.mp3",
+      "bpm": 139
+    },
+    "authorMeta": "Chart: MajorPickle \u2022 139 BPM",
+    "trackTitle": "Wild Waters"
+  },
+  {
+    "id": "featured_seven_nation_army",
+    "key": "25f",
+    "title": "Seven Nation Army",
+    "artist": "The White Stripes",
+    "author": "Karlos",
+    "bpm": 124.0,
+    "diffStats": {
+      "Normal": {
+        "notes": 399,
+        "obstacles": 0,
+        "bombs": 0
+      },
+      "Hard": {
+        "notes": 496,
+        "obstacles": 0,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_thugs",
+      "title": "Thugs",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Thugs.mp3",
+      "bpm": 124
+    },
+    "authorMeta": "Chart: Karlos \u2022 124 BPM",
+    "trackTitle": "Thugs"
+  },
+  {
+    "id": "featured_smooth_criminal",
+    "key": "ff9",
+    "title": "Smooth Criminal",
+    "artist": "Michael Jackson",
+    "author": "Atlasik",
+    "bpm": 140.0,
+    "diffStats": {
+      "ExpertPlus": {
+        "notes": 1179,
+        "obstacles": 81,
+        "bombs": 197
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_assault",
+      "title": "Assault on Mist Castle",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Assault%20on%20Mist%20Castle.mp3",
+      "bpm": 140
+    },
+    "authorMeta": "Chart: Atlasik \u2022 140 BPM",
+    "trackTitle": "Assault on Mist Castle"
+  },
+  {
+    "id": "featured_fatal_oshi_no_ko",
+    "key": "3e2ed",
+    "title": "Fatal (Oshi No Ko OP)",
+    "artist": "GEMN",
+    "author": "yabje & Gabriel",
+    "bpm": 156.0,
+    "diffStats": {
+      "Normal": {
+        "notes": 0,
+        "obstacles": 0,
+        "bombs": 0
+      },
+      "Hard": {
+        "notes": 0,
+        "obstacles": 0,
+        "bombs": 0
+      },
+      "Expert": {
+        "notes": 0,
+        "obstacles": 0,
+        "bombs": 0
+      },
+      "ExpertPlus": {
+        "notes": 0,
+        "obstacles": 0,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_dark_knight",
+      "title": "Dark Knight",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Dark%20Knight.mp3",
+      "bpm": 156
+    },
+    "authorMeta": "Chart: yabje & Gabriel \u2022 156 BPM",
+    "trackTitle": "Dark Knight"
+  },
+  {
+    "id": "featured_born_to_run",
+    "key": "65cf",
+    "title": "I'm Born To Run",
+    "artist": "American Authors",
+    "author": "NovaShaft",
+    "bpm": 126.0,
+    "diffStats": {
+      "Easy": {
+        "notes": 255,
+        "obstacles": 40,
+        "bombs": 0
+      },
+      "Normal": {
+        "notes": 371,
+        "obstacles": 60,
+        "bombs": 0
+      },
+      "Hard": {
+        "notes": 496,
+        "obstacles": 81,
+        "bombs": 0
+      },
+      "Expert": {
+        "notes": 657,
+        "obstacles": 89,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_daybreak",
+      "title": "Daybreak",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Daybreak.mp3",
+      "bpm": 126
+    },
+    "authorMeta": "Chart: NovaShaft \u2022 126 BPM",
+    "trackTitle": "Daybreak"
+  },
+  {
+    "id": "featured_you_didnt_know",
+    "key": "39ee9",
+    "title": "You Didn't Know",
+    "artist": "Hazbin Hotel",
+    "author": "Behindyouboy",
+    "bpm": 146.0,
+    "diffStats": {
+      "Hard": {
+        "notes": 0,
+        "obstacles": 0,
+        "bombs": 0
+      },
+      "Expert": {
+        "notes": 0,
+        "obstacles": 0,
+        "bombs": 0
+      },
+      "ExpertPlus": {
+        "notes": 0,
+        "obstacles": 0,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_king_desert",
+      "title": "King of the Desert",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/King%20of%20the%20Desert.mp3",
+      "bpm": 146
+    },
+    "authorMeta": "Chart: Behindyouboy \u2022 146 BPM",
+    "trackTitle": "King of the Desert"
+  },
+  {
+    "id": "featured_blow_kesha",
+    "key": "55a0",
+    "title": "Blow",
+    "artist": "Kesha",
+    "author": "HelenCarnate",
+    "bpm": 120.0,
+    "diffStats": {
+      "Easy": {
+        "notes": 236,
+        "obstacles": 5,
+        "bombs": 0
+      },
+      "Normal": {
+        "notes": 370,
+        "obstacles": 6,
+        "bombs": 0
+      },
+      "Hard": {
+        "notes": 575,
+        "obstacles": 42,
+        "bombs": 16
+      },
+      "Expert": {
+        "notes": 804,
+        "obstacles": 21,
+        "bombs": 32
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_forest",
+      "title": "The Forest Awakes",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/The%20Forest%20Awakes.mp3",
+      "bpm": 120
+    },
+    "authorMeta": "Chart: HelenCarnate \u2022 120 BPM",
+    "trackTitle": "The Forest Awakes"
+  },
+  {
+    "id": "featured_move_to_the_sound",
+    "key": "27ca4",
+    "title": "Move To The Sound",
+    "artist": "New Sound Nation",
+    "author": "nitronik.exe",
+    "bpm": 128.0,
+    "diffStats": {
+      "Expert": {
+        "notes": 622,
+        "obstacles": 16,
+        "bombs": 8
+      },
+      "ExpertPlus": {
+        "notes": 679,
+        "obstacles": 16,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_now_or_never",
+      "title": "Now or Never",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Now%20or%20Never.mp3",
+      "bpm": 128
+    },
+    "authorMeta": "Chart: nitronik.exe \u2022 128 BPM",
+    "trackTitle": "Now or Never"
+  },
+  {
+    "id": "featured_chocolate_insomnia",
+    "key": "257b9",
+    "title": "Chocolate Insomnia",
+    "artist": "Yui Horie",
+    "author": "Joetastic",
+    "bpm": 162.0,
+    "diffStats": {
+      "Expert": {
+        "notes": 0,
+        "obstacles": 0,
+        "bombs": 0
+      },
+      "ExpertPlus": {
+        "notes": 0,
+        "obstacles": 0,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_carol",
+      "title": "Carol of the Bells",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Carol%20of%20the%20Bells%20(Christmas).mp3",
+      "bpm": 162
+    },
+    "authorMeta": "Chart: Joetastic \u2022 162 BPM",
+    "trackTitle": "Carol of the Bells"
+  },
+  {
+    "id": "featured_sugar_song",
+    "key": "2778f",
+    "title": "Sugar Song to Bitter Step",
+    "artist": "UNISON SQUARE GARDEN",
+    "author": "Joetastic",
+    "bpm": 132.0,
+    "diffStats": {
+      "Easy": {
+        "notes": 155,
+        "obstacles": 23,
+        "bombs": 0
+      },
+      "Normal": {
+        "notes": 265,
+        "obstacles": 23,
+        "bombs": 0
+      },
+      "Hard": {
+        "notes": 370,
+        "obstacles": 15,
+        "bombs": 0
+      },
+      "Expert": {
+        "notes": 489,
+        "obstacles": 20,
+        "bombs": 0
+      },
+      "ExpertPlus": {
+        "notes": 509,
+        "obstacles": 20,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_honky",
+      "title": "Honky-Tonk Villain",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Honky-Tonk%20Villain.mp3",
+      "bpm": 132
+    },
+    "authorMeta": "Chart: Joetastic \u2022 132 BPM",
+    "trackTitle": "Honky-Tonk Villain"
+  },
+  {
+    "id": "featured_your_spell",
+    "key": "1dd38",
+    "title": "Your Spell",
+    "artist": "Bad Computer",
+    "author": "Moriik",
+    "bpm": 128.0,
+    "diffStats": {
+      "Hard": {
+        "notes": 602,
+        "obstacles": 340,
+        "bombs": 0
+      },
+      "Expert": {
+        "notes": 706,
+        "obstacles": 341,
+        "bombs": 0
+      },
+      "ExpertPlus": {
+        "notes": 836,
+        "obstacles": 401,
+        "bombs": 23
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_now_or_never",
+      "title": "Now or Never",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Now%20or%20Never.mp3",
+      "bpm": 128
+    },
+    "authorMeta": "Chart: Moriik \u2022 128 BPM",
+    "trackTitle": "Now or Never"
+  },
+  {
+    "id": "featured_forever_alone",
+    "key": "1a3cf",
+    "title": "Forever Alone",
+    "artist": "Smash Into Pieces",
+    "author": "Negimafan",
+    "bpm": 168.0,
+    "diffStats": {
+      "Expert": {
+        "notes": 677,
+        "obstacles": 49,
+        "bombs": 64
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_syntheticity",
+      "title": "Syntheticity",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Syntheticity.mp3",
+      "bpm": 165
+    },
+    "authorMeta": "Chart: Negimafan \u2022 168 BPM",
+    "trackTitle": "Syntheticity"
+  },
+  {
+    "id": "featured_crab_rave",
+    "key": "30560",
+    "title": "Crab Rave",
+    "artist": "Noisestorm",
+    "author": "Phoenix",
+    "bpm": 125.0,
+    "diffStats": {
+      "Normal": {
+        "notes": 0,
+        "obstacles": 0,
+        "bombs": 0
+      },
+      "Hard": {
+        "notes": 0,
+        "obstacles": 0,
+        "bombs": 0
+      },
+      "Expert": {
+        "notes": 0,
+        "obstacles": 0,
+        "bombs": 0
+      },
+      "ExpertPlus": {
+        "notes": 0,
+        "obstacles": 0,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_defiance",
+      "title": "Defiance",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Defiance.mp3",
+      "bpm": 125
+    },
+    "authorMeta": "Chart: Phoenix \u2022 125 BPM",
+    "trackTitle": "Defiance"
+  },
+  {
+    "id": "featured_overkill",
+    "key": "1ef6",
+    "title": "Overkill",
+    "artist": "RIOT",
+    "author": "krydar",
+    "bpm": 174.0,
+    "diffStats": {
+      "ExpertPlus": {
+        "notes": 1951,
+        "obstacles": 107,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_retribution",
+      "title": "Retribution",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Retribution.mp3",
+      "bpm": 174
+    },
+    "authorMeta": "Chart: krydar \u2022 174 BPM",
+    "trackTitle": "Retribution"
+  },
+  {
+    "id": "featured_uptown_funk",
+    "key": "5038",
+    "title": "Uptown Funk",
+    "artist": "Mark Ronson ft. Bruno Mars",
+    "author": "BennyDaBeast",
+    "bpm": 115.0,
+    "diffStats": {
+      "Hard": {
+        "notes": 639,
+        "obstacles": 24,
+        "bombs": 0
+      },
+      "Expert": {
+        "notes": 776,
+        "obstacles": 24,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_forest",
+      "title": "The Forest Awakes",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/The%20Forest%20Awakes.mp3",
+      "bpm": 120
+    },
+    "authorMeta": "Chart: BennyDaBeast \u2022 115 BPM",
+    "trackTitle": "The Forest Awakes"
+  },
+  {
+    "id": "featured_high_hopes",
+    "key": "3083",
+    "title": "High Hopes",
+    "artist": "Panic! At The Disco",
+    "author": "jackodej",
+    "bpm": 164.0,
+    "diffStats": {
+      "Expert": {
+        "notes": 917,
+        "obstacles": 52,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_syntheticity",
+      "title": "Syntheticity",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Syntheticity.mp3",
+      "bpm": 165
+    },
+    "authorMeta": "Chart: jackodej \u2022 164 BPM",
+    "trackTitle": "Syntheticity"
+  },
+  {
+    "id": "featured_pop_stars",
+    "key": "1e68",
+    "title": "POP/STARS",
+    "artist": "K/DA",
+    "author": "ragectrl",
+    "bpm": 170.0,
+    "diffStats": {
+      "Hard": {
+        "notes": 512,
+        "obstacles": 22,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_retribution",
+      "title": "Retribution",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Retribution.mp3",
+      "bpm": 174
+    },
+    "authorMeta": "Chart: ragectrl \u2022 170 BPM",
+    "trackTitle": "Retribution"
+  },
+  {
+    "id": "featured_radioactive",
+    "key": "885",
+    "title": "Radioactive",
+    "artist": "Imagine Dragons",
+    "author": "cranberry",
+    "bpm": 137.0,
+    "diffStats": {
+      "Expert": {
+        "notes": 684,
+        "obstacles": 4,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_wild_waters",
+      "title": "Wild Waters",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Wild%20Waters.mp3",
+      "bpm": 139
+    },
+    "authorMeta": "Chart: cranberry \u2022 137 BPM",
+    "trackTitle": "Wild Waters"
+  },
+  {
+    "id": "featured_centuries",
+    "key": "b501",
+    "title": "Centuries",
+    "artist": "Fall Out Boy",
+    "author": "binginator",
+    "bpm": 176.0,
+    "diffStats": {
+      "Easy": {
+        "notes": 336,
+        "obstacles": 23,
+        "bombs": 8
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_retribution",
+      "title": "Retribution",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Retribution.mp3",
+      "bpm": 174
+    },
+    "authorMeta": "Chart: binginator \u2022 176 BPM",
+    "trackTitle": "Retribution"
+  },
+  {
+    "id": "featured_megalovania",
+    "key": "c5",
+    "title": "Megalovania",
+    "artist": "Toby Fox",
+    "author": "sinlord",
+    "bpm": 120.0,
+    "diffStats": {
+      "Expert": {
+        "notes": 697,
+        "obstacles": 45,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_forest",
+      "title": "The Forest Awakes",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/The%20Forest%20Awakes.mp3",
+      "bpm": 120
+    },
+    "authorMeta": "Chart: sinlord \u2022 120 BPM",
+    "trackTitle": "The Forest Awakes"
+  },
+  {
+    "id": "featured_take_on_me",
+    "key": "6d63",
+    "title": "Take On Me",
+    "artist": "A-ha",
+    "author": "kolezan",
+    "bpm": 169.0,
+    "diffStats": {
+      "Easy": {
+        "notes": 277,
+        "obstacles": 29,
+        "bombs": 0
+      },
+      "Normal": {
+        "notes": 359,
+        "obstacles": 26,
+        "bombs": 0
+      },
+      "Hard": {
+        "notes": 549,
+        "obstacles": 26,
+        "bombs": 0
+      },
+      "Expert": {
+        "notes": 852,
+        "obstacles": 23,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_syntheticity",
+      "title": "Syntheticity",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Syntheticity.mp3",
+      "bpm": 165
+    },
+    "authorMeta": "Chart: kolezan \u2022 169 BPM",
+    "trackTitle": "Syntheticity"
+  },
+  {
+    "id": "featured_cant_hold_us",
+    "key": "d5e",
+    "title": "Can't Hold Us",
+    "artist": "Macklemore & Ryan Lewis",
+    "author": "ninjacat",
+    "bpm": 146.0,
+    "diffStats": {
+      "Expert": {
+        "notes": 918,
+        "obstacles": 61,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_king_desert",
+      "title": "King of the Desert",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/King%20of%20the%20Desert.mp3",
+      "bpm": 146
+    },
+    "authorMeta": "Chart: ninjacat \u2022 146 BPM",
+    "trackTitle": "King of the Desert"
+  },
+  {
+    "id": "featured_counting_stars",
+    "key": "5b8e",
+    "title": "Counting Stars",
+    "artist": "OneRepublic",
+    "author": "N1C",
+    "bpm": 122.0,
+    "diffStats": {
+      "Expert": {
+        "notes": 963,
+        "obstacles": 3,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_clowns",
+      "title": "Clowns",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Clowns.mp3",
+      "bpm": 123
+    },
+    "authorMeta": "Chart: N1C \u2022 122 BPM",
+    "trackTitle": "Clowns"
+  },
+  {
+    "id": "featured_feel_special",
+    "key": "65bb",
+    "title": "Feel Special",
+    "artist": "TWICE",
+    "author": "kikaeaeon",
+    "bpm": 129.0,
+    "diffStats": {
+      "Normal": {
+        "notes": 351,
+        "obstacles": 17,
+        "bombs": 0
+      },
+      "Hard": {
+        "notes": 552,
+        "obstacles": 17,
+        "bombs": 0
+      },
+      "Expert": {
+        "notes": 762,
+        "obstacles": 16,
+        "bombs": 0
+      },
+      "ExpertPlus": {
+        "notes": 952,
+        "obstacles": 36,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_now_or_never",
+      "title": "Now or Never",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Now%20or%20Never.mp3",
+      "bpm": 128
+    },
+    "authorMeta": "Chart: kikaeaeon \u2022 129 BPM",
+    "trackTitle": "Now or Never"
+  },
+  {
+    "id": "featured_titanium",
+    "key": "2a33",
+    "title": "Titanium",
+    "artist": "David Guetta ft. Sia",
+    "author": "Filletus",
+    "bpm": 126.0,
+    "diffStats": {
+      "Hard": {
+        "notes": 468,
+        "obstacles": 9,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_daybreak",
+      "title": "Daybreak",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Daybreak.mp3",
+      "bpm": 126
+    },
+    "authorMeta": "Chart: Filletus \u2022 126 BPM",
+    "trackTitle": "Daybreak"
+  },
+  {
+    "id": "featured_the_phoenix",
+    "key": "32693",
+    "title": "The Phoenix",
+    "artist": "Fall Out Boy",
+    "author": "Bytrius",
+    "bpm": 138.0,
+    "diffStats": {
+      "Easy": {
+        "notes": 0,
+        "obstacles": 0,
+        "bombs": 0
+      },
+      "Normal": {
+        "notes": 0,
+        "obstacles": 0,
+        "bombs": 0
+      },
+      "Hard": {
+        "notes": 0,
+        "obstacles": 0,
+        "bombs": 0
+      },
+      "Expert": {
+        "notes": 0,
+        "obstacles": 0,
+        "bombs": 0
+      },
+      "ExpertPlus": {
+        "notes": 0,
+        "obstacles": 0,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_wild_waters",
+      "title": "Wild Waters",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Wild%20Waters.mp3",
+      "bpm": 139
+    },
+    "authorMeta": "Chart: Bytrius \u2022 138 BPM",
+    "trackTitle": "Wild Waters"
+  },
+  {
+    "id": "featured_hit_the_road_jack",
+    "key": "1a0ba",
+    "title": "Hit The Road Jack",
+    "artist": "Wolfgang Lohr & Maskarade",
+    "author": "Nixie.Korten",
+    "bpm": 124.0,
+    "diffStats": {
+      "Expert": {
+        "notes": 475,
+        "obstacles": 0,
+        "bombs": 0
+      },
+      "ExpertPlus": {
+        "notes": 750,
+        "obstacles": 0,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_thugs",
+      "title": "Thugs",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Thugs.mp3",
+      "bpm": 124
+    },
+    "authorMeta": "Chart: Nixie.Korten \u2022 124 BPM",
+    "trackTitle": "Thugs"
+  },
+  {
+    "id": "featured_empires",
+    "key": "1a0b6",
+    "title": "Empires",
+    "artist": "The Electric Swing Circus",
+    "author": "Nixie.Korten",
+    "bpm": 120.0,
+    "diffStats": {
+      "Expert": {
+        "notes": 522,
+        "obstacles": 24,
+        "bombs": 0
+      },
+      "ExpertPlus": {
+        "notes": 823,
+        "obstacles": 0,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_forest",
+      "title": "The Forest Awakes",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/The%20Forest%20Awakes.mp3",
+      "bpm": 120
+    },
+    "authorMeta": "Chart: Nixie.Korten \u2022 120 BPM",
+    "trackTitle": "The Forest Awakes"
+  },
+  {
+    "id": "featured_party_like_1920",
+    "key": "1a0b8",
+    "title": "Party Like It's 1920",
+    "artist": "Wolfgang Lohr & The Swinghoppers",
+    "author": "Nixie.Korten",
+    "bpm": 120.0,
+    "diffStats": {
+      "Expert": {
+        "notes": 556,
+        "obstacles": 0,
+        "bombs": 0
+      },
+      "ExpertPlus": {
+        "notes": 850,
+        "obstacles": 0,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_forest",
+      "title": "The Forest Awakes",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/The%20Forest%20Awakes.mp3",
+      "bpm": 120
+    },
+    "authorMeta": "Chart: Nixie.Korten \u2022 120 BPM",
+    "trackTitle": "The Forest Awakes"
+  },
+  {
+    "id": "featured_venom_of_venus",
+    "key": "b7aa",
+    "title": "Venom of Venus",
+    "artist": "Powerwolf",
+    "author": "Cyrix",
+    "bpm": 164.0,
+    "diffStats": {
+      "Easy": {
+        "notes": 392,
+        "obstacles": 63,
+        "bombs": 0
+      },
+      "Normal": {
+        "notes": 674,
+        "obstacles": 36,
+        "bombs": 8
+      },
+      "Hard": {
+        "notes": 943,
+        "obstacles": 7,
+        "bombs": 9
+      },
+      "Expert": {
+        "notes": 1083,
+        "obstacles": 7,
+        "bombs": 4
+      },
+      "ExpertPlus": {
+        "notes": 1083,
+        "obstacles": 7,
+        "bombs": 4
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_syntheticity",
+      "title": "Syntheticity",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Syntheticity.mp3",
+      "bpm": 165
+    },
+    "authorMeta": "Chart: Cyrix \u2022 164 BPM",
+    "trackTitle": "Syntheticity"
+  },
+  {
+    "id": "featured_titans",
+    "key": "8bd3",
+    "title": "Titans",
+    "artist": "Aero Chord & Razhiel",
+    "author": "Timeweaver",
+    "bpm": 150.0,
+    "diffStats": {
+      "Expert": {
+        "notes": 1000,
+        "obstacles": 92,
+        "bombs": 0
+      },
+      "ExpertPlus": {
+        "notes": 1417,
+        "obstacles": 27,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_bloody_tears",
+      "title": "Bloody Tears (Metal Remix)",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Bloody%20Tears%20(Castlevania%20remix).mp3",
+      "bpm": 150
+    },
+    "authorMeta": "Chart: Timeweaver \u2022 150 BPM",
+    "trackTitle": "Bloody Tears (Metal Remix)"
+  },
+  {
+    "id": "featured_take_me_there",
+    "key": "8144",
+    "title": "Take Me There",
+    "artist": "Delta Rae",
+    "author": "andraia1024",
+    "bpm": 120.0,
+    "diffStats": {
+      "Normal": {
+        "notes": 491,
+        "obstacles": 4,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_forest",
+      "title": "The Forest Awakes",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/The%20Forest%20Awakes.mp3",
+      "bpm": 120
+    },
+    "authorMeta": "Chart: andraia1024 \u2022 120 BPM",
+    "trackTitle": "The Forest Awakes"
+  },
+  {
+    "id": "featured_bangarang",
+    "key": "4d62",
+    "title": "Bangarang",
+    "artist": "Skrillex",
+    "author": "nitronik.exe",
+    "bpm": 110.0,
+    "diffStats": {
+      "Easy": {
+        "notes": 631,
+        "obstacles": 6,
+        "bombs": 0
+      },
+      "Normal": {
+        "notes": 708,
+        "obstacles": 14,
+        "bombs": 0
+      },
+      "Hard": {
+        "notes": 881,
+        "obstacles": 14,
+        "bombs": 0
+      },
+      "Expert": {
+        "notes": 1140,
+        "obstacles": 29,
+        "bombs": 108
+      },
+      "ExpertPlus": {
+        "notes": 1088,
+        "obstacles": 26,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_deeper",
+      "title": "Deeper",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Deeper.mp3",
+      "bpm": 110
+    },
+    "authorMeta": "Chart: nitronik.exe \u2022 110 BPM",
+    "trackTitle": "Deeper"
+  },
+  {
+    "id": "featured_blinding_lights",
+    "key": "8553",
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "author": "NovaShaft",
+    "bpm": 171.0,
+    "diffStats": {
+      "Easy": {
+        "notes": 271,
+        "obstacles": 15,
+        "bombs": 0
+      },
+      "Hard": {
+        "notes": 473,
+        "obstacles": 25,
+        "bombs": 16
+      },
+      "Expert": {
+        "notes": 638,
+        "obstacles": 33,
+        "bombs": 44
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_retribution",
+      "title": "Retribution",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Retribution.mp3",
+      "bpm": 174
+    },
+    "authorMeta": "Chart: NovaShaft \u2022 171 BPM",
+    "trackTitle": "Retribution"
+  },
+  {
+    "id": "featured_bad_guy",
+    "key": "2ce27",
+    "title": "bad guy",
+    "artist": "Billie Eilish",
+    "author": "Joetastic",
+    "bpm": 135.0,
+    "diffStats": {
+      "Hard": {
+        "notes": 0,
+        "obstacles": 0,
+        "bombs": 0
+      },
+      "Expert": {
+        "notes": 0,
+        "obstacles": 0,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_familiar_roads",
+      "title": "Familiar Roads",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Familiar%20Roads.mp3",
+      "bpm": 135
+    },
+    "authorMeta": "Chart: Joetastic \u2022 135 BPM",
+    "trackTitle": "Familiar Roads"
+  },
+  {
+    "id": "featured_animals_garrix",
+    "key": "49bc",
+    "title": "Animals",
+    "artist": "Martin Garrix",
+    "author": "NovaShaft",
+    "bpm": 128.0,
+    "diffStats": {
+      "ExpertPlus": {
+        "notes": 781,
+        "obstacles": 18,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_now_or_never",
+      "title": "Now or Never",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Now%20or%20Never.mp3",
+      "bpm": 128
+    },
+    "authorMeta": "Chart: NovaShaft \u2022 128 BPM",
+    "trackTitle": "Now or Never"
+  },
+  {
+    "id": "featured_sugar_maroon5",
+    "key": "410e",
+    "title": "Sugar",
+    "artist": "Maroon 5",
+    "author": "KikaeAeon",
+    "bpm": 120.0,
+    "diffStats": {
+      "Expert": {
+        "notes": 1008,
+        "obstacles": 8,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_forest",
+      "title": "The Forest Awakes",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/The%20Forest%20Awakes.mp3",
+      "bpm": 120
+    },
+    "authorMeta": "Chart: KikaeAeon \u2022 120 BPM",
+    "trackTitle": "The Forest Awakes"
+  },
+  {
+    "id": "featured_numb_linkin_park",
+    "key": "14059",
+    "title": "Numb",
+    "artist": "Linkin Park",
+    "author": "ByteTheNerd",
+    "bpm": 110.0,
+    "diffStats": {
+      "ExpertPlus": {
+        "notes": 1179,
+        "obstacles": 12,
+        "bombs": 84
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_deeper",
+      "title": "Deeper",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Deeper.mp3",
+      "bpm": 110
+    },
+    "authorMeta": "Chart: ByteTheNerd \u2022 110 BPM",
+    "trackTitle": "Deeper"
+  },
+  {
+    "id": "featured_starboy",
+    "key": "57ad",
+    "title": "Starboy",
+    "artist": "The Weeknd ft. Daft Punk",
+    "author": "Joetastic",
+    "bpm": 186.0,
+    "diffStats": {
+      "Expert": {
+        "notes": 881,
+        "obstacles": 2,
+        "bombs": 20
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_retribution",
+      "title": "Retribution",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Retribution.mp3",
+      "bpm": 174
+    },
+    "authorMeta": "Chart: Joetastic \u2022 186 BPM",
+    "trackTitle": "Retribution"
+  },
+  {
+    "id": "featured_never_gonna_give_you_up",
+    "key": "8278",
+    "title": "Never Gonna Give You Up",
+    "artist": "Rick Astley",
+    "author": "Kolezan",
+    "bpm": 113.0,
+    "diffStats": {
+      "ExpertPlus": {
+        "notes": 0,
+        "obstacles": 0,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_deeper",
+      "title": "Deeper",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Deeper.mp3",
+      "bpm": 110
+    },
+    "authorMeta": "Chart: Kolezan \u2022 113 BPM",
+    "trackTitle": "Deeper"
+  },
+  {
+    "id": "featured_dancin_krono",
+    "key": "458e",
+    "title": "Dancin (KRONO Remix)",
+    "artist": "Aaron Smith",
+    "author": "Ruckus",
+    "bpm": 120.0,
+    "diffStats": {
+      "Hard": {
+        "notes": 508,
+        "obstacles": 16,
+        "bombs": 0
+      },
+      "Expert": {
+        "notes": 605,
+        "obstacles": 16,
+        "bombs": 0
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_forest",
+      "title": "The Forest Awakes",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/The%20Forest%20Awakes.mp3",
+      "bpm": 120
+    },
+    "authorMeta": "Chart: Ruckus \u2022 120 BPM",
+    "trackTitle": "The Forest Awakes"
+  },
+  {
+    "id": "featured_hey_brother",
+    "key": "1f2",
+    "title": "Hey Brother",
+    "artist": "Avicii",
+    "author": "Chandoggie",
+    "bpm": 125.0,
+    "diffStats": {
+      "Hard": {
+        "notes": 419,
+        "obstacles": 25,
+        "bombs": 64
+      }
+    },
+    "matchedTrack": {
+      "id": "tanner_defiance",
+      "title": "Defiance",
+      "artist": "Tanner Helland",
+      "url": "https://kharazdev.github.io/c-m/music/tannerhelland/mp3/Defiance.mp3",
+      "bpm": 125
+    },
+    "authorMeta": "Chart: Chandoggie \u2022 125 BPM",
+    "trackTitle": "Defiance"
+  }
+]
